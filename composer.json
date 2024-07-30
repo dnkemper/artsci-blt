@@ -1,23 +1,13 @@
 {
-    "name": "acquia/drupal-recommended-settings",
+    "name": "acquia/artsci-blt",
     "description": "The composer plugin for adding drupal-recommended-settings for Acquia Cloud.",
     "license": "GPL-2.0-only",
     "type": "composer-plugin",
     "keywords": [
         "drupal",
         "acquia",
-        "drupal-recommended-settings"
+        "artsci-blt"
     ],
-    "authors": [
-        {
-            "name": "Vishal Khode",
-            "email": "vishal.khode@acquia.com"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/acquia/drupal-recommended-settings/issues",
-        "docs": "https://docs.acquia.com/drupal-recommended-settings/"
-    },
     "require": {
         "php": ">=8.1",
         "composer-plugin-api": "^2",
