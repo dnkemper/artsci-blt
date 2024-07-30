@@ -1,5 +1,5 @@
 {
-    "name": "acquia/artsci-blt",
+    "name": "acquia/drupal-recommended-settings",
     "description": "The composer plugin for adding drupal-recommended-settings for Acquia Cloud.",
     "license": "GPL-2.0-only",
     "type": "composer-plugin",
